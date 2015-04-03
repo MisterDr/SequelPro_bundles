@@ -1,5 +1,4 @@
-# SequelPro_bundles
-SequelPro bundles
+# SequelPro bundles
 
 ## About
 Perl script for copying row as PHP array
